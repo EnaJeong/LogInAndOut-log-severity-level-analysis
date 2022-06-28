@@ -24,6 +24,9 @@
 
 ## 디렉토리 및 파일 안내
 
+### 디렉토리
 - `./EDA`: 각자 EDA를 수행 후 공유한 파일 모음
 - `./share`: 전처리와 모델링 등을 수행하면서 공유한 파일 모음
-- [`InAndOut_Final.ipynb`](./InAndOut_Final.ipynb): 최종 제출 코드
+
+### 최종 제출 코드
+- [InAndOut_Final.ipynb](./InAndOut_Final.ipynb)
